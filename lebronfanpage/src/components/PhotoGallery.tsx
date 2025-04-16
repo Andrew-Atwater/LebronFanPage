@@ -64,7 +64,7 @@ const PhotoGallery: React.FC = () => {
     <Container maxWidth="xl">
       <Box sx={{ my: 4 }}>
         <Typography variant="h2" component="h1" gutterBottom align="center">
-          Photo Gallery
+          LeGallery
         </Typography>
         
         <Paper elevation={3} sx={{ p: 3, mb: 4 }}>

@@ -10,10 +10,10 @@ const Navbar: React.FC = () => {
           LeBron James Fan Page
         </Typography>
         <Box>
-          <Button color="inherit" component={Link} to="/">Home</Button>
-          <Button color="inherit" component={Link} to="/achievements">Achievements</Button>
-          <Button color="inherit" component={Link} to="/gallery">Gallery</Button>
-          <Button color="inherit" component={Link} to="/forum">Fan Forum</Button>
+          <Button color="inherit" component={Link} to="/">LeHome</Button>
+          <Button color="inherit" component={Link} to="/achievements">LeAchievements</Button>
+          <Button color="inherit" component={Link} to="/gallery">LeGallery</Button>
+          <Button color="inherit" component={Link} to="/forum">LeFan Forum</Button>
         </Box>
       </Toolbar>
     </AppBar>
